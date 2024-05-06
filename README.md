@@ -4,7 +4,7 @@
 
 ## Sobre mí
 - 🔭 Actualmente estoy trabajando en ...
-- 🌱 Actualmente estoy aprendiendo Desarrollo web y Metodlogias participativas.
+- 🌱 Actualmente estoy aprendiendo Desarrollo web y Metodologias participativas.
 - 📫 Cómo contactarme: jarol.tellez228188@potros.itson.edu.mx
 - ⚡ Dato curioso: ....
 
