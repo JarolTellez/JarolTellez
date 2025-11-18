@@ -5,7 +5,6 @@
 Sonora, México  
 [tellezjarol89@gmail.com](mailto:tellezjarol89@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/jarol-tellez-b272b7279/)  
-[GitHub](https://github.com/JarolTellez)
 
 ## Educación
 
