@@ -34,7 +34,7 @@ Sonora, México
 - Desarrollo colaborativo con diseño de arquitectura UML
 - **Tecnologías:** Java, MongoDB, UML
 
-## 🛠️ Skills Técnicas
+## Skills Técnicas
 
 ### **Lenguajes de Programación**
 - Java • JavaScript
@@ -43,7 +43,7 @@ Sonora, México
 - React • HTML5 • CSS3
 
 ### **Backend Development**
-- Node.js • Express • APIs REST
+- Spring Boot • Node.js • Express • APIs REST
 
 ### **Bases de Datos**
 - MySQL (SQL) • MongoDB (NoSQL) • Prisma
